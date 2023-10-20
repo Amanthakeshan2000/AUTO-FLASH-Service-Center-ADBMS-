@@ -1,6 +1,6 @@
 # Auto Flash Service Center Management System
 
-This is a comprehensive management system for Auto Flash Service Center, designed to streamline customer registration, vehicle registration, service requests, and billing. It leverages a .NET framework for the frontend and C# for the backend, with MySQL serving as the database. The user interface was designed using Figma.
+This is a comprehensive management system for Auto Flash Service Center, designed to streamline customer registration, vehicle registration, service requests, and billing. It leverages a .NET framework for the frontend and C# for the backend, with Microsoft SQL serving as the database. The user interface was designed using Figma.
 
 ## Features
 - Customer Registration: Capture customer details, including NIC, name, address, mobile number, email, and registration date.
@@ -16,14 +16,14 @@ This is a comprehensive management system for Auto Flash Service Center, designe
 ## Technologies Used
 - ### Frontend: .NET Framework
 - ### Backend: C#
-- ### Database: MySQL Server
+- ### Database: Microsoft SQL Server
 - ### UI Design: Figma
 
 ##  Getting Started
 To run this system locally, follow these steps:
 1. Clone the Repository: Clone this repository to your local machine.
 
-2. Database Setup: Ensure you have a MySQL server set up. Import the database schema provided in the database-schema.sql file.
+2. Database Setup: Ensure you have a Microsoft SQL server set up. Import the database schema provided in the database-schema.sql file.
 
 3. Frontend Setup: Open the frontend project in .NET framework.
 
