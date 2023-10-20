@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2023-10-18T08:17:05.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="7iyZroFndwH73TckKP0B" version="22.0.2" type="device">
+  <diagram name="Page-1" id="Weab_UNWayzPxZpulThg">
+    <mxGraphModel dx="1036" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-1" value="Customer Register Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="230" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-2" value="Customer List" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="230" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-3" value="Search By Customer ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="40" width="570" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-5" value="Customer Register&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-6" value="Vehicle Register Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="100" width="220" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-7" value="Vehicle Register&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-8" value="Search Customer By Customer ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-9" value="Auto Fill Customer Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="160" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-10" value="Vehicle Number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="200" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-11" value="Auto Search Registered Vehicle Details With Enter Customer ID." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="100" width="210" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="60" width="510" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="80" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-15" value="Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-16" value="Search Vehicle By Vehicle No." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="100" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-17" value="Auto Fill Customer Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="140" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-18" value="Add Service Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="200" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-19" value="Show added ServicDetails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="80" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV-eHuQyu_uu9ABcEse-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="50" width="540" height="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
