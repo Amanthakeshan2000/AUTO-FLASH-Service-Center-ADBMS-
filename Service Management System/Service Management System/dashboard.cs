@@ -29,6 +29,7 @@ namespace Service_Management_System
         SqlConnection cn = new SqlConnection();
         SqlCommand cm = new SqlCommand();
         DBConnection dbcon = new DBConnection();
+        customers culist;
        
 
         public dashboard()
@@ -38,13 +39,15 @@ namespace Service_Management_System
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
             cn = new SqlConnection(dbcon.MyConnection());
             cn.Open();
-            //MessageBox.Show("Connected");
+            MessageBox.Show("Database Successfully Connected.");
+            cn.Close();
+            
 
         }
 
         private void panel3_Paint(object sender, PaintEventArgs e)
         {
-
+            //////////////////////
         }
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
@@ -130,6 +133,16 @@ namespace Service_Management_System
         private void button4_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
