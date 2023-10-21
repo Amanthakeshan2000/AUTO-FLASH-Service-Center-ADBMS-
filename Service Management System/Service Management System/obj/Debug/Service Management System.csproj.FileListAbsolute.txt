@@ -41,3 +41,19 @@ C:\Users\Amantha Keshan\OneDrive - NSBM\Desktop\1\AUTO-FLASH-Service-Center-ADBM
 C:\Users\Amantha Keshan\OneDrive - NSBM\Desktop\1\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service Management System.exe
 C:\Users\Amantha Keshan\OneDrive - NSBM\Desktop\1\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service Management System.pdb
 C:\Users\Amantha Keshan\OneDrive - NSBM\Desktop\1\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service_Management_System.sample.resources
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\bin\Debug\Service Management System.exe.config
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\bin\Debug\Service Management System.exe
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\bin\Debug\Service Management System.pdb
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service Management System.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service_Management_System.customers.resources
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service_Management_System.dashboard.resources
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service_Management_System.Form1.resources
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service_Management_System.login.resources
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service_Management_System.Properties.Resources.resources
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service_Management_System.sample.resources
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service_Management_System.service.resources
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service_Management_System.vehicle.resources
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service Management System.csproj.GenerateResource.cache
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service Management System.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service Management System.exe
+C:\Users\user\Desktop\New folder (12)\AUTO-FLASH-Service-Center-ADBMS-\Service Management System\Service Management System\obj\Debug\Service Management System.pdb

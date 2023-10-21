@@ -10,7 +10,7 @@ namespace Service_Management_System
     {
         public string MyConnection()
         {
-            string con = "Data Source=DESKTOP-1DA8EH9\\SQLEXPRESS;Initial Catalog=Service_Center_DB;Integrated Security=True";
+            string con = "Data Source=MSI\\SQLEXPRESS;Initial Catalog=Auto_Flash_DB;Integrated Security=True";
             return con; 
         }
     }
